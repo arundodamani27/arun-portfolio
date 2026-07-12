@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: "*",
       allow: "/",
     },
-    sitemap: "https://arundodamani.vercel.app/sitemap.xml",
+    sitemap: "https://arundodamani.tech/sitemap.xml",
   };
 }
